@@ -2,38 +2,19 @@
   {
     "id": 1,
     "tone": "professional",
-    "keywords": [
-      "steady",
-      "minimal",
-      "synth pads",
-      "mid-tempo",
-      "clean mix",
-      "subtle percussion"
-    ],
-    "prompt": "Minimal synth pads with steady 90 BPM rhythm and subtle electronic percussion. Clean mix with controlled stereo width and balanced frequencies."
+    "keywords": ["steady", "neutral", "subtle", "clean", "modern"],
+    "prompt": "A clean and balanced background track with steady rhythm, soft piano, and subtle synth layers. The mood is professional and controlled, with smooth transitions and a polished mix."
   },
   {
     "id": 2,
-    "tone": "professional",
-    "keywords": [
-      "acoustic piano",
-      "warm strings",
-      "moderate tempo",
-      "smooth transitions",
-      "reverb"
-    ],
-    "prompt": "Acoustic piano melody accompanied by warm string pads at 85 BPM. Smooth transitions between sections with moderate reverb on piano."
+    "tone": "fun & quirky",
+    "keywords": ["playful", "bouncy", "colorful", "lighthearted", "energetic"],
+    "prompt": "An upbeat, playful soundtrack with bouncy percussion, whimsical xylophone, and bright synth melodies. The energy feels lively and cheerful, with dynamic rhythm changes to keep it quirky."
   },
   {
     "id": 3,
-    "tone": "professional",
-    "keywords": [
-      "digital textures",
-      "precise rhythm",
-      "sterile mix",
-      "controlled dynamics",
-      "electronic"
-    ],
-    "prompt": "Precise digital textures over 95 BPM rhythm with controlled dynamic range. Sterile mix with minimal compression and clear frequency separation."
+    "tone": "inspirational / motivational",
+    "keywords": ["uplifting", "emotional", "heroic", "orchestral", "powerful"],
+    "prompt": "An uplifting and inspiring background track with soaring strings, soft brass, and motivating rhythms. The atmosphere feels empowering and hopeful, with clear progression and emotional crescendos."
   }
 ]
