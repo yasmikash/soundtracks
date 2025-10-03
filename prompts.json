@@ -5,23 +5,35 @@
     "keywords": [
       "steady",
       "minimal",
-      "clean",
-      "modern",
-      "balanced",
-      "corporate"
+      "synth pads",
+      "mid-tempo",
+      "clean mix",
+      "subtle percussion"
     ],
-    "prompt": "A minimalist background track with steady mid-tempo rhythm, clean synth pads, and subtle electronic elements. The atmosphere remains neutral and unobtrusive with precise mixing and controlled dynamics, concluding with a gradual fade to silence."
+    "prompt": "Minimal synth pads with steady 90 BPM rhythm and subtle electronic percussion. Clean mix with controlled stereo width and balanced frequencies."
   },
   {
     "id": 2,
     "tone": "professional",
-    "keywords": ["sophisticated", "warm", "acoustic", "refined", "elegant"],
-    "prompt": "Warm acoustic instrumentation with gentle piano melodies and soft string accompaniments. The pacing remains measured and consistent with a refined harmonic structure, ending with a smooth resolution of all musical elements."
+    "keywords": [
+      "acoustic piano",
+      "warm strings",
+      "moderate tempo",
+      "smooth transitions",
+      "reverb"
+    ],
+    "prompt": "Acoustic piano melody accompanied by warm string pads at 85 BPM. Smooth transitions between sections with moderate reverb on piano."
   },
   {
     "id": 3,
     "tone": "professional",
-    "keywords": ["precise", "technical", "digital", "streamlined", "efficient"],
-    "prompt": "Precise digital textures with streamlined rhythmic patterns and clean frequency separation. The sound maintains technical clarity with balanced stereo imaging and controlled reverb, finishing with a systematic reduction of all layers."
+    "keywords": [
+      "digital textures",
+      "precise rhythm",
+      "sterile mix",
+      "controlled dynamics",
+      "electronic"
+    ],
+    "prompt": "Precise digital textures over 95 BPM rhythm with controlled dynamic range. Sterile mix with minimal compression and clear frequency separation."
   }
 ]
