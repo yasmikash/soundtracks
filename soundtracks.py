@@ -1,7 +1,6 @@
 import json
 import os
 from audiocraft.models import MusicGen
-import torch
 import soundfile as sf
 
 # Load the prompts JSON file
