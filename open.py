@@ -23,7 +23,7 @@ prompt = (
 
 conditioning = [
     {
-        "prompt": prompt_text,
+        "prompt": prompt,
         "seconds_start": 0,
         "seconds_total": 30,  # Length of clip (20–40 s works well)
     }
