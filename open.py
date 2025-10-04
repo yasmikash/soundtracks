@@ -9,7 +9,11 @@ model, model_config = get_pretrained_model("stabilityai/stable-audio-open-1.0")
 model = model.to(device)
 
 conditioning = [
-    {"prompt": "soft ambient synth background", "seconds_start": 0, "seconds_total": 20}
+    {
+        "prompt": "An uplifting and inspiring background track with soaring strings, soft brass, and motivating rhythms. The atmosphere feels empowering and hopeful, with clear progression and emotional crescendos.",
+        "seconds_start": 0,
+        "seconds_total": 60,
+    }
 ]
 
 output = generate_diffusion_cond(
@@ -36,4 +40,4 @@ output = (
     .to(torch.int16)
     .cpu()
 )
-torchaudio.save("out.wav", output, model_config["sample_rate"])
+torchaudio.save("./out/out.wav", output, model_config["sample_rate"])
