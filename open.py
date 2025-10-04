@@ -10,7 +10,7 @@ model = model.to(device)
 
 conditioning = [
     {
-        "prompt": "An uplifting and inspiring background track with soaring strings, soft brass, and motivating rhythms. The atmosphere feels empowering and hopeful, with clear progression and emotional crescendos.",
+        "prompt": "An upbeat, playful soundtrack with bouncy percussion, whimsical xylophone, and bright synth melodies. The energy feels lively and cheerful, with dynamic rhythm changes to keep it quirky.",
         "seconds_start": 0,
         "seconds_total": 60,
     }
