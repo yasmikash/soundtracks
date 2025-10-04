@@ -15,12 +15,7 @@ model = model.to(device)
 os.makedirs("./out", exist_ok=True)
 
 # ---- CONFIGURATION ----
-prompt_text = (
-    "lo-fi chill instrumental with light guitar and electric piano, "
-    "soft percussion, steady slow beat, relaxing background, no vocals, minimal bass, "
-    "perfect under voiceover narration"
-)
-
+prompt_text = "soft ambient electronic background with warm piano and smooth synth pads, slow to mid tempo, relaxed and elegant tone, no vocals, minimal percussion, cinematic mix, background underscore for voiceover commercial"
 conditioning = [
     {
         "prompt": prompt_text,
